@@ -10,6 +10,7 @@
 		1EE484232555260B0043C4F3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE484222555260B0043C4F3 /* main.swift */; };
 		1EE4842B255526190043C4F3 /* p1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE4842A255526190043C4F3 /* p1000.swift */; };
 		1EE4842E2555268B0043C4F3 /* p1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE4842D2555268B0043C4F3 /* p1008.swift */; };
+		1EE48431255527030043C4F3 /* p2438.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE48430255527030043C4F3 /* p2438.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		1EE484222555260B0043C4F3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1EE4842A255526190043C4F3 /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
 		1EE4842D2555268B0043C4F3 /* p1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1008.swift; sourceTree = "<group>"; };
+		1EE48430255527030043C4F3 /* p2438.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2438.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				1EE484222555260B0043C4F3 /* main.swift */,
 				1EE4842A255526190043C4F3 /* p1000.swift */,
 				1EE4842D2555268B0043C4F3 /* p1008.swift */,
+				1EE48430255527030043C4F3 /* p2438.swift */,
 			);
 			path = "1week-algorithm";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				1EE484232555260B0043C4F3 /* main.swift in Sources */,
 				1EE4842E2555268B0043C4F3 /* p1008.swift in Sources */,
 				1EE4842B255526190043C4F3 /* p1000.swift in Sources */,
+				1EE48431255527030043C4F3 /* p2438.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
