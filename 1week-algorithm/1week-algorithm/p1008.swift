@@ -8,8 +8,9 @@
 import Foundation
 
 func p1008() {
-    let a = Float(readLine()!)!
-    let b = Float(readLine()!)!
-    
+    let line = readLine() ?? ""
+    let lineArr = line.split{$0 == " "}
+    let a = Int(lineArr[0]) ?? 0
+    let b = Int(lineArr[1]) ?? 0
     print(a/b)
 }

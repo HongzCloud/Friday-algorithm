@@ -8,8 +8,9 @@
 import Foundation
 
 func p1000() {
-    let a = Int(readLine()!)!
-    let b = Int(readLine()!)!
-    
+    let line = readLine() ?? ""
+    let lineArr = line.split{$0 == " "}
+    let a = Int(lineArr[0]) ?? 0
+    let b = Int(lineArr[1]) ?? 0
     print(a+b)
 }

@@ -14,6 +14,8 @@ func p2438() {
         for _ in 0..<n {
             print("*", separator: "", terminator: "")
         }
-        print()
+        if n != 0 {
+            print()
+        }
     }
 }

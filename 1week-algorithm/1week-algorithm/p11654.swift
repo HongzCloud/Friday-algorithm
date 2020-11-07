@@ -8,7 +8,7 @@
 import Foundation
 
 func p11654() {
-    let a: Character = Character(readLine()!)
+    let a: Character = Character(readLine() ?? "" )
     
-    print((a.asciiValue)!)
+    print((a.asciiValue))
 }
