@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ board:[[Int]], _ moves:[Int]) -> Int {
+func p64061(_ board:[[Int]], _ moves:[Int]) -> Int {
     
     var tempBoard = board
     var shoppingCart : [Int] = []
