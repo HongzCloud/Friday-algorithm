@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1E5ED7EA255E1DE400D94AFC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5ED7E9255E1DE400D94AFC /* main.swift */; };
 		1E5ED7F2255E25F400D94AFC /* p12910_programmers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5ED7F1255E25F400D94AFC /* p12910_programmers.swift */; };
+		1E5ED7F9255E2B9B00D94AFC /* p64061_programmers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5ED7F8255E2B9B00D94AFC /* p64061_programmers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		1E5ED7E6255E1DE400D94AFC /* 2week-algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2week-algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5ED7E9255E1DE400D94AFC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1E5ED7F1255E25F400D94AFC /* p12910_programmers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12910_programmers.swift; sourceTree = "<group>"; };
+		1E5ED7F8255E2B9B00D94AFC /* p64061_programmers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p64061_programmers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				1E5ED7E9255E1DE400D94AFC /* main.swift */,
 				1E5ED7F1255E25F400D94AFC /* p12910_programmers.swift */,
+				1E5ED7F8255E2B9B00D94AFC /* p64061_programmers.swift */,
 			);
 			path = "2week-algorithm";
 			sourceTree = "<group>";
@@ -92,7 +95,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1210;
-				LastUpgradeCheck = 1210;
+				LastUpgradeCheck = 1220;
 				TargetAttributes = {
 					1E5ED7E5255E1DE400D94AFC = {
 						CreatedOnToolsVersion = 12.1;
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E5ED7F2255E25F400D94AFC /* p12910_programmers.swift in Sources */,
+				1E5ED7F9255E2B9B00D94AFC /* p64061_programmers.swift in Sources */,
 				1E5ED7EA255E1DE400D94AFC /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -248,6 +252,7 @@
 		1E5ED7EE255E1DE400D94AFC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -257,6 +262,7 @@
 		1E5ED7EF255E1DE400D94AFC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
