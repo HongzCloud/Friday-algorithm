@@ -13,6 +13,7 @@
 		1E6D7619255E6A1B00B37C5F /* p68644_programmers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6D7618255E6A1B00B37C5F /* p68644_programmers.swift */; };
 		1E6D7620255E79ED00B37C5F /* p42840_programmers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6D761F255E79ED00B37C5F /* p42840_programmers.swift */; };
 		1E6D76242560DD5B00B37C5F /* p12901_programmers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6D76232560DD5B00B37C5F /* p12901_programmers.swift */; };
+		1E6D76282561430A00B37C5F /* p12928_programmers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6D76272561430A00B37C5F /* p12928_programmers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		1E6D7618255E6A1B00B37C5F /* p68644_programmers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p68644_programmers.swift; sourceTree = "<group>"; };
 		1E6D761F255E79ED00B37C5F /* p42840_programmers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p42840_programmers.swift; sourceTree = "<group>"; };
 		1E6D76232560DD5B00B37C5F /* p12901_programmers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12901_programmers.swift; sourceTree = "<group>"; };
+		1E6D76272561430A00B37C5F /* p12928_programmers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12928_programmers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				1E6D7618255E6A1B00B37C5F /* p68644_programmers.swift */,
 				1E6D761F255E79ED00B37C5F /* p42840_programmers.swift */,
 				1E6D76232560DD5B00B37C5F /* p12901_programmers.swift */,
+				1E6D76272561430A00B37C5F /* p12928_programmers.swift */,
 			);
 			path = "2week-algorithm";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				1E6D76242560DD5B00B37C5F /* p12901_programmers.swift in Sources */,
 				1E6D7620255E79ED00B37C5F /* p42840_programmers.swift in Sources */,
 				1E5ED7F2255E25F400D94AFC /* p12910_programmers.swift in Sources */,
+				1E6D76282561430A00B37C5F /* p12928_programmers.swift in Sources */,
 				1E6D7619255E6A1B00B37C5F /* p68644_programmers.swift in Sources */,
 				1E5ED7F9255E2B9B00D94AFC /* p64061_programmers.swift in Sources */,
 				1E5ED7EA255E1DE400D94AFC /* main.swift in Sources */,

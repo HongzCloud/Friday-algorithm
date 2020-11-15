@@ -34,4 +34,8 @@ print("5번미션")
 print(p12901(3, 24))
 print()
 
+//MARK:- p12928
+print("6번미션")
+print(p12928(0))
+print()
 
