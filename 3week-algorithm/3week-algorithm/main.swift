@@ -8,4 +8,7 @@
 import Foundation
 
 //MARK:- 1번문제
-print(a + b)
+//print(a + b)
+
+//MARK:- 2번문제
+print(gradingStudents(grades: [78, 32, 43, 67]))
