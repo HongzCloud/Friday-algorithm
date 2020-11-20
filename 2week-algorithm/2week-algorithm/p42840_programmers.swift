@@ -17,7 +17,7 @@ func p42840(_ answers:[Int]) -> [Int] {
     var students = [Student(patten: [1, 2, 3, 4, 5]),
                        Student(patten: [2, 1, 2, 3, 2, 4, 2, 5]),
                        Student(patten: [3, 3, 1, 1, 2, 2, 4, 4, 5, 5])]
- 
+    var a = answers.enumerated()
     for studentNumbers in 0..<students.count {
         for answersCount in 0..<answers.count {
             if answers[answersCount] == students[studentNumbers].patten[pattenCount] {
