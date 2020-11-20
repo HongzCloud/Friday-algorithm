@@ -12,6 +12,7 @@
 		1E8643FE25676A8D0063722C /* GradingStudent_HackerRank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8643FD25676A8D0063722C /* GradingStudent_HackerRank.swift */; };
 		1E86440125678A440063722C /* CompareTheTriplets_HackerRank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E86440025678A440063722C /* CompareTheTriplets_HackerRank.swift */; };
 		1E86440425678DFD0063722C /* BigSum_HackerRank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E86440325678DFD0063722C /* BigSum_HackerRank.swift */; };
+		1E864407256791090063722C /* TimeConversion_HackerRank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E864406256791090063722C /* TimeConversion_HackerRank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		1E8643FD25676A8D0063722C /* GradingStudent_HackerRank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudent_HackerRank.swift; sourceTree = "<group>"; };
 		1E86440025678A440063722C /* CompareTheTriplets_HackerRank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets_HackerRank.swift; sourceTree = "<group>"; };
 		1E86440325678DFD0063722C /* BigSum_HackerRank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigSum_HackerRank.swift; sourceTree = "<group>"; };
+		1E864406256791090063722C /* TimeConversion_HackerRank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConversion_HackerRank.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				1E8643FD25676A8D0063722C /* GradingStudent_HackerRank.swift */,
 				1E86440025678A440063722C /* CompareTheTriplets_HackerRank.swift */,
 				1E86440325678DFD0063722C /* BigSum_HackerRank.swift */,
+				1E864406256791090063722C /* TimeConversion_HackerRank.swift */,
 			);
 			path = "3week-algorithm";
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E864407256791090063722C /* TimeConversion_HackerRank.swift in Sources */,
 				1E86440425678DFD0063722C /* BigSum_HackerRank.swift in Sources */,
 				1E8643FE25676A8D0063722C /* GradingStudent_HackerRank.swift in Sources */,
 				1E8643F2256769460063722C /* main.swift in Sources */,

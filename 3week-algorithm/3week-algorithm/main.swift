@@ -23,7 +23,12 @@ import Foundation
 //print()
 
 //MARK:- 4번문제
-print("4번문제")
-print(aVeryBigSum(ar: [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]))
+//print("4번문제")
+//print(aVeryBigSum(ar: [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]))
+//print()
+
+//MARK:- 5번문제
+print("5번문제")
+print(timeConversion(test: "09:10:31PM"))
 print()
 
