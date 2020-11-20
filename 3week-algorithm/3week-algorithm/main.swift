@@ -28,7 +28,13 @@ import Foundation
 //print()
 
 //MARK:- 5번문제
-print("5번문제")
-print(timeConversion(test: "09:10:31PM"))
-print()
+//print("5번문제")
+//print(timeConversion(test: "09:10:31PM"))
+//print()
+
+//MARK:- 6번문제
+print("6번문제")
+print(kangaroo(x1: 0, v1: 3, x2: 4, v2: 2))
+
+
 
