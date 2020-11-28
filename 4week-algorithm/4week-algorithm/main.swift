@@ -29,4 +29,9 @@ print(palindrome.isPalindrome(-101) == false ? "PASS":"FAILED")
 print(palindrome.isPalindrome(0) == true ? "PASS":"FAILED")
 
 //MARK:- 3번문제
-
+let romanManager = Solution()
+print("4번문제")
+print(romanManager.romanToInt("IV") == 4 ? "PASS":"FAILED")
+print(romanManager.romanToInt("IX") == 9 ? "PASS":"FAILED")
+print(romanManager.romanToInt("LVIII") == 58 ? "PASS":"FAILED" )
+print(romanManager.romanToInt("III") == 3 ? "PASS":"FAILED")
