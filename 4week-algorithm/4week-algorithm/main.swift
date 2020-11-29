@@ -29,9 +29,18 @@ print(palindrome.isPalindrome(-101) == false ? "PASS":"FAILED")
 print(palindrome.isPalindrome(0) == true ? "PASS":"FAILED")
 
 //MARK:- 3번문제
-let romanManager = Solution()
+let romanManager = RomanManager()
 print("4번문제")
 print(romanManager.romanToInt("IV") == 4 ? "PASS":"FAILED")
 print(romanManager.romanToInt("IX") == 9 ? "PASS":"FAILED")
 print(romanManager.romanToInt("LVIII") == 58 ? "PASS":"FAILED" )
 print(romanManager.romanToInt("III") == 3 ? "PASS":"FAILED")
+
+//MARK:- 4번문제
+let CommonPrefixManager = LongestCommonPrefixManager()
+print(CommonPrefixManager.longestCommonPrefix(["flower", "flow", "flight"]) == "fl" ? "PASS":"FAILED")
+print(CommonPrefixManager.longestCommonPrefix(["a"]) == "a" ? "PASS":"FAILED")
+print(CommonPrefixManager.longestCommonPrefix(["",""]) == "" ? "PASS":"FAILED")
+print(CommonPrefixManager.longestCommonPrefix(["a","ab"]) == "a" ? "PASS":"FAILED")
+print(CommonPrefixManager.longestCommonPrefix([]) == "" ? "PASS":"FAILED")
+
