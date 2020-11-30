@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1E58167525736D1500EB79F4 /* LongestCommonPrefix_LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E58167425736D1500EB79F4 /* LongestCommonPrefix_LeetCode.swift */; };
+		1E5816782573897B00EB79F4 /* MergeTwoSortedList_LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5816772573897B00EB79F4 /* MergeTwoSortedList_LeetCode.swift */; };
 		1E601B252570A5C600646717 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E601B242570A5C600646717 /* main.swift */; };
 		1E601B2D2570A61700646717 /* TwoSum_LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E601B2C2570A61700646717 /* TwoSum_LeetCode.swift */; };
 		1E601B302570C8E400646717 /* ReverseInt_LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E601B2F2570C8E400646717 /* ReverseInt_LeetCode.swift */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		1E58167425736D1500EB79F4 /* LongestCommonPrefix_LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix_LeetCode.swift; sourceTree = "<group>"; };
+		1E5816772573897B00EB79F4 /* MergeTwoSortedList_LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedList_LeetCode.swift; sourceTree = "<group>"; };
 		1E601B212570A5C600646717 /* 4week-algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4week-algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E601B242570A5C600646717 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1E601B2C2570A61700646717 /* TwoSum_LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum_LeetCode.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				1E601B322570DDA900646717 /* PalindromeNumber_LeetCode.swift */,
 				1E601B36257109CC00646717 /* Roman_LeetCode.swift */,
 				1E58167425736D1500EB79F4 /* LongestCommonPrefix_LeetCode.swift */,
+				1E5816772573897B00EB79F4 /* MergeTwoSortedList_LeetCode.swift */,
 			);
 			path = "4week-algorithm";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 				1E601B302570C8E400646717 /* ReverseInt_LeetCode.swift in Sources */,
 				1E601B252570A5C600646717 /* main.swift in Sources */,
 				1E601B2D2570A61700646717 /* TwoSum_LeetCode.swift in Sources */,
+				1E5816782573897B00EB79F4 /* MergeTwoSortedList_LeetCode.swift in Sources */,
 				1E601B332570DDA900646717 /* PalindromeNumber_LeetCode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
